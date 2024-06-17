@@ -183,6 +183,7 @@ const [first, second, ...rest] = sortedGames;
 const firstContainer = document.createElement('div');
 firstContainer.innerHTML = first.name;
 firstGameContainer.appendChild(firstContainer);
+
 // do the same for the runner up item
 const secondContainer = document.createElement('div');
 secondContainer.innerHTML = second.name;
