@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/vYiT7M5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+[Imgur](https://imgur.com/RFRtad4)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
 <!-- Recommended tools:
