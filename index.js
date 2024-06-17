@@ -16,10 +16,6 @@ function deleteChildElements(parent) {
         parent.removeChild(parent.firstChild);
     }
 }
-'6games-container.stats-card15'
-'74FLANNELclick'
-'toLocaleString<div>1ivy'
-'ZooHowCEDAR'
 /*****************************************************************************
  * Challenge 3: Add data about each game as a card to the games-container
  * Skills used: DOM manipulation, for loops, template literals, functions
