@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Imgur](https://imgur.com/RFRtad4)
+<blockquote class="imgur-embed-pub" lang="en" data-id="RFRtad4"><a href="https://imgur.com/RFRtad4">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
 <!-- Recommended tools:
